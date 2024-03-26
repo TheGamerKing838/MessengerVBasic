@@ -1,0 +1,16 @@
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\bin\Debug\net8.0-windows\VBMessenger.exe
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\bin\Debug\net8.0-windows\VBMessenger.deps.json
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\bin\Debug\net8.0-windows\VBMessenger.runtimeconfig.json
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\bin\Debug\net8.0-windows\VBMessenger.dll
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\bin\Debug\net8.0-windows\VBMessenger.pdb
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\obj\Debug\net8.0-windows\VBMessenger.Form1.resources
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\obj\Debug\net8.0-windows\VBMessenger.vbproj.GenerateResource.cache
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\obj\Debug\net8.0-windows\VBMessenger.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\obj\Debug\net8.0-windows\VBMessenger.AssemblyInfoInputs.cache
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\obj\Debug\net8.0-windows\VBMessenger.AssemblyInfo.vb
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\obj\Debug\net8.0-windows\VBMessenger.vbproj.CoreCompileInputs.cache
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\obj\Debug\net8.0-windows\VBMessenger.dll
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\obj\Debug\net8.0-windows\refint\VBMessenger.dll
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\obj\Debug\net8.0-windows\VBMessenger.pdb
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\obj\Debug\net8.0-windows\VBMessenger.genruntimeconfig.cache
+D:\My Work\Visual Basic\VBMessenger\VBMessenger\obj\Debug\net8.0-windows\ref\VBMessenger.dll
